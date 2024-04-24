@@ -1,0 +1,25 @@
+{
+  "name": "url-expander",
+  "version": "1.0.0",
+  "description": "a simple CLI command to expand short URLS like bitly or tinyurl",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "expand-url": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuj-thakur-513/CLI-URL-Expander.git"
+  },
+  "author": "Anuj Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuj-thakur-513/CLI-URL-Expander/issues"
+  },
+  "homepage": "https://github.com/anuj-thakur-513/CLI-URL-Expander#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
