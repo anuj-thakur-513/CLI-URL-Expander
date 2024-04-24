@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/anuj-thakur-513/CLI-URL-Expander#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
+    "boxen": "^4.2.0",
+    "tall": "^8.0.0",
     "yargs": "^17.7.2"
   }
 }
